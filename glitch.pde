@@ -1,3 +1,6 @@
+// Copyright Saadiya Desai and Stephanie Lin 
+// Feel free to use our code and tweet us the results at @_sdesai and @stephanielin78
+
 import processing.opengl.*;
 import SimpleOpenNI.*;
 
